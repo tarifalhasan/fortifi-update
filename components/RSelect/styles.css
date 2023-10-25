@@ -1,0 +1,12 @@
+.select-ctn {
+  margin-top: 20px;
+}
+.select-ctn [class*="placeholder"] {
+  color: #fff;
+  font-family: Nunito;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+  text-align: center;
+}
